@@ -1,5 +1,125 @@
 {
-  "events": [     
+  "events": [
+     {
+      "titulo": "IT Expo 2018",
+      "dataInicio": "2018-10-17",
+      "dataFim": "2018-10-18",
+      "local": "Transamerica Expo Center",
+      "endereco": "Av. Dr. Mário Villas Boas Rodrigues, 387 – Santo Amaro, São Paulo – SP",
+      "localizacao": {
+        "latitude": -23.648416,
+        "longitude": -46.719189
+      },
+      "link": "http://www.itforumexpo.com.br/"
+     },
+     {
+       "titulo": "Python Brasil 2018",
+       "dataInicio": "2018-10-17",
+       "dataFim": "2018-10-22",
+       "local": "Hotel Holiday Inn Natal",
+       "endereco": "Av. Sen. Salgado Filho , 1906 - Lagoa Nova, Natal - RN",
+       "localizacao": {
+         "latitude": -5.824917,
+         "longitude": -35.210006
+       },
+       "link": "https://2018.pythonbrasil.org.br/"
+     },
+     {
+       "titulo": "DevOpsDay Belém 2018",
+       "dataInicio": "2018-11-24",
+       "dataFim": "2018-11-24",
+       "local": "Elephant Coworking",
+       "endereco": "Av. Governador José Malcher, 153, Reduto, Belém, Pará",
+       "localizacao": {
+         "latitude": -1.452013,
+         "longitude": -48.492646
+       },
+       "link": "https://www.devopsdays.org/events/2018-belem/welcome/"
+     },
+     {
+       "titulo": "São Paulo Big Data Week 2018",
+       "dataInicio": "2018-10-20",
+       "dataFim": "2018-10-20",
+       "local": "Centro de Convenções Rebouças - Entrada de pedestres",
+       "endereco": "Av. Dr. Enéas de Carvalho Aguiar, 23, Pinheiros, São Paulo, SP 05402-000",
+       "localizacao": {
+         "latitude": -23.5577389,
+         "longitude": -46.6692412
+       },
+       "link": "http://sao-paulo.bigdataweek.com/"
+     },
+     {
+        "titulo": "PHP Conference Brasil 2018",
+        "dataInicio": "2018-12-06",
+        "dataFim": "2018-12-08",
+        "local": "Faculdade Senac Porto Alegre – Campus II",
+        "endereco": "Rua Coronel Genuíno, 130. Centro Histórico, Porto Alegre (RS).",
+        "localizacao": {
+          "latitude": -30.036687,
+          "longitude": -51.227335
+        },
+        "link": "https://phpconference.com.br/"
+      },
+     {
+        "titulo": "Roadsec São Paulo 2018",
+        "dataInicio": "2018-11-10",
+        "dataFim": "2018-11-10",
+        "local": "Audio",
+        "endereco": "Av. Francisco Matarazzo, 694Barra Funda - São Paulo",
+        "localizacao": {
+          "latitude": -23.528204,
+          "longitude": -46.669452
+        },
+        "link": "http://roadsec.com.br/saopaulo-2018"
+     },
+     {
+      "titulo": "GDG Campinas AndroidFest 2018",
+      "dataInicio": "2018-10-20",
+      "dataFim": "2018-10-20",
+      "local": "Vitória Hotel Concept Campinas",
+      "endereco": "Av. José de Souza Campos, 425, Campinas - São Paulo",
+      "localizacao": {
+        "latitude": -22.902451,
+        "longitude": -47.047998
+      },
+      "link": "https://gdg-campinas.github.io/androidfest/"
+    },
+    {
+     "titulo": "BrazilJS on the road Belo Horizonte",
+     "dataInicio": "2018-10-27",
+     "dataFim": "2018-10-27",
+     "local": "Samba Tech",
+     "endereco": "Rua Turim, 99 - Santa Lúcia - Belo Horizonte - MG",
+     "localizacao": {
+       "latitude": -19.9703342,
+       "longitude": -43.9538765
+     },
+     "link": "https://braziljs.org/eventos/braziljs-on-the-road-belo-horizonte/"
+    },
+    {
+     "titulo": "Hacktoberfest Curitiba 2018",
+     "dataInicio": "2018-10-20",
+     "dataFim": "2018-10-20",
+     "local": "DINF - Departamennto de Informática UFPR",
+     "endereco": "Rua Evaristo F. Ferreira da Costa - Jardim das Américas, Curitiba - Paraná",
+     "localizacao": {
+       "latitude": -25.450791,
+       "longitude": -49.231884
+     },
+     "link": "https://hacktoberfestcwb.github.io/2018/"
+    },
+    {
+     "titulo": "Campus Party Brasil - CPBR12",
+     "dataInicio": "2019-02-12",
+     "dataFim": "2019-02-17",
+     "local": "Expo Center Norte",
+     "endereco": "Rua José Bernardo Pinto, 333 - Vila Guilherme, São Paulo - São Paulo",
+     "localizacao": {
+       "latitude": -23.510732,
+       "longitude": -46.6120773
+     },
+     "link": "http://brasil.campus-party.org/cpbr12/"
+    },
     {
      "titulo": "CODERS IN RIO SUMMIT 2018",
      "dataInicio": "2018-11-10",
@@ -10,19 +130,91 @@
        "latitude": -22.9365277,
        "longitude": -43.1773033
      },
-     "link": "https://codersinrio.com.br"
+     "link": "https://codersinrio.com.br/"
    },
-    {
-      "titulo": "Hacktudo 2018",
-      "dataInicio": "2018-11-02 08:00:00",
-      "dataFim": "2018-11-04 10:00:00",
-      "local": "Cidade das Artes",
-      "endereco": "Av. das Américas, 5300 - Barra da Tijuca, Rio de Janeiro - RJ, 22793-080",
+   {
+      "titulo": "React Conf Brasil 2018",
+      "dataInicio": "2018-10-20",
+      "dataFim": "2018-10-20",
+      "local": "Teatro Brigadeiro",
+      "endereco": "Avenida Brigadeiro Luís Antônio, 884 - Bela Vista, São Paulo - São Paulo",
       "localizacao": {
-        "latitude": -22.999156,
-        "longitude": -43.3657976
+        "latitude": -23.557406,
+        "longitude": -46.641039
       },
-      "link": "https://www.hacktudo.com.br"
+      "link": "http://reactconfbr.com.br/"
+    },
+    {
+      "titulo": "Latinoware 2018",
+      "dataInicio": "2018-10-17",
+      "dataFim": "2018-10-19",
+      "local": "Centro de Convenções de Foz do Iguaçu – CECONFI",
+      "endereco": "Rodovia das Cataratas, km 19,5 (acesso ao Aeroporto), Foz do Iguaçu – Paraná",
+      "localizacao": {
+        "latitude": 25.6033398,
+        "longitude": -54.4974058
+      },
+      "link": "https://latinoware.org/"
+    }, 
+    { 
+      "titulo": "Women Dev Summit 2018",
+      "dataInicio": "2018-10-27",
+      "dataFim": "2018-10-27",
+      "local": "Mercado Livre - Melicidade",
+      "endereco": "Avenida das Nações Unidas, 3003, Bonfim, Osasco, SP",
+      "localizacao": {
+        "latitude": -23.524154,
+        "longitude": -46.760554
+      },
+      "link": "https://www.sympla.com.br/women-dev-summit-2018__338718"
+    },
+    {
+      "titulo": "DevFest BH",
+      "dataInicio": "2018-11-10",
+      "dataFim": "2018-11-10",
+      "local": "The One Business Center",
+      "endereco": "Raja Gabáglia, 1143 - Luxemburgo, Belo Horizonte - MG",
+      "localizacao": {
+        "latitude": -19.945745,
+        "longitude": -43.957034
+      },
+      "link": "http://www.devfestbh.com/"
+    },
+    {
+      "titulo": "RD Summit 2018",
+      "dataInicio": "2018-11-07",
+      "dataFim": "2018-11-09",
+      "local": "Centrosul",
+      "endereco": "Avenida Governador Gustavo Richard, 850 - Centro, Florianópolis - Santa Catarina",
+      "localizacao": {
+        "latitude": -27.600953,
+        "longitude": -48.552099
+      },
+      "link": "https://rdsummit.com.br/"
+    },
+    {
+      "titulo": "UX Team Summit 2018",
+      "dataInicio": "2018-10-27",
+      "dataFim": "2018-10-27",
+      "local": "Escola SENAI de Informática",
+      "endereco": "Alameda Barão de Limeira, 539 - Santa Cecilia, São Paulo - São Paulo",
+      "localizacao": {
+        "latitude": -23.536551,
+        "longitude": -46.646321
+      },
+      "link": "https://www.uxteamsummit.com.br/"
+    },
+    {
+      "titulo": "GDG DevFest Paraná 2018",
+      "dataInicio": "2018-11-24 08:00:00",
+      "dataFim": "2018-11-24 18:30:00",
+      "local": "FEITEP - Faculdade de Engenharia e Inovação Técnico Profissional",
+      "endereco": "Avenida Paranavaí, 1164 - Zona 06, Maringá, Paraná",
+      "localizacao": {
+        "latitude": -23.4235474,
+        "longitude": -51.9710911
+      },
+      "link": "https://devfestpr.com/"
     }
   ]
 }
